@@ -1,1 +1,1 @@
-# Strealit Porject Learned
+# Streamlit Porject Learned
