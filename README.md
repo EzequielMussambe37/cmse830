@@ -1,1 +1,1 @@
-# Streamlit Porject Learned
+# Streamlit Project Basics
